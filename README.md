@@ -1,3 +1,3 @@
-# IoT-Ortam-Zararl-Gazlardan-Ar-nd-rma-Projesi-
+# IoT-Ortami-Zararli-Gazlardan-Arindirma-Projesi-
 Bu projenin amacı, IoT teknolojilerini kullanarak kapalı ortamların hava kalitesini izlemek ve zararlı gaz seviyelerini tespit ederek gerekli önlemleri almaktır. 
 MQ9 ve MQ2 gaz sensörleri ile AGS10 hava kalitesi sensörü entegre edilerek, karbon monoksit, metan, diğer yanıcı gazlar ve toplam volatil organik bileşenlerin (TVOC) seviyeleri izlenir. Kritik seviyeler tespit edildiğinde fan sistemi devreye girerek havalandırma sağlanır; alarm sistemi (led ve buzzer) ile kullanıcılar uyarılır. Bu proje, özellikle endüstriyel tesisler, evler ve ofis ortamlarında hava kalitesini iyileştirerek sağlıklı ve güvenli bir yaşam alanı yaratmayı hedefler. Proje MQTT protokolü ile ESP8266 tabanlı bir sistem kurarak, bileşenlerin kablosuz olarak haberleşmesine olanak sağlar. Veriler Home Assistant platformunda toplanır, analiz edilir ve kullanıcı dostu bir ara yüzden izlenebilir.
